@@ -10,8 +10,7 @@ public class Echo {
 		
 		String sentence = strs.nextLine();
 		
-		System.out.printf("출력 문장: " + sentence);
-		strs.close();
+		System.out.println("출력 문장: " + sentence);
 		
 		
 		

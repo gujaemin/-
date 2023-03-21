@@ -13,7 +13,6 @@ public class Temperature {
 		
 		System.out.printf("변환된 섭씨온도는 %.2f °C ", tempC); 
 		
-		temps.close();
 	}
 
 }
